@@ -1,0 +1,12 @@
+# YAML FALLAS UNIONES para YOLOv8
+
+path: '/content/drive/MyDrive/TESIS/FALLASENUNIONES_YOLOV8/data'
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 1 
+names:
+  0: Fallas en Uniones
+
+
